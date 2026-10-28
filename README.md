@@ -34,7 +34,7 @@ Clone TransNetV2 and the keyframe extraction repository into the same directory:
 
 ```bash
 git clone https://github.com/soCzech/TransNetV2.git
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Tyrhonn/board2vec-keyframe-extraction.git
 ```
 
 Expected structure:
@@ -196,5 +196,3 @@ These values are experimental, not benchmark-optimized.
 
 - [TransNetV2 – Official Repository](https://github.com/soCzech/TransNetV2)
 - [TransNetV2 Research Paper](https://arxiv.org/abs/2008.04838)
-- **BOARD2VEC Issue:** [#23 – Detect Keyframes from Video Dataset](https://github.com/BlackJackMC/meeting-intelligence-assistant/issues/23)
-- **Dataset:** Google Drive link to be added.
